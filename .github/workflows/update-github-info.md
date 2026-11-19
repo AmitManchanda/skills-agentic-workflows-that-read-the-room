@@ -15,6 +15,7 @@ strict: true
 engine:
   id: copilot
   copilot-sdk: true
+  model: gpt-5.6
 tools:
   edit:
   web-fetch:
